@@ -3,7 +3,7 @@
 Learning full-stack development (MERN + TypeScript), backend-focused, job-ready goal.
 
 ## Stack
-Node, Express, MongoDB, PostgreSQL, React, TypeScript, Redis
+Node, Express, MongoDB, PostgreSQL, React, TypeScript, Redis, Docker
 
 ## Progress Log
 | Day | Date | What I did |
