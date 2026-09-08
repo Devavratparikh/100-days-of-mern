@@ -3,9 +3,11 @@
 Learning full-stack development (MERN + TypeScript), backend-focused, job-ready goal.
 
 ## Stack
+
 Node, Express, MongoDB, PostgreSQL, React, TypeScript, Redis, Docker
 
 ## Progress Log
-| Day | Date | What I did |
-|---|---|---|
-| 1 | 2026-09-05 | Set up Git, GitHub SSH, VS Code. Wrote this README. |
+
+| Day | Date       | What I did                                          |
+| --- | ---------- | --------------------------------------------------- |
+| 1   | 2026-09-05 | Set up Git, GitHub SSH, VS Code. Wrote this README. |

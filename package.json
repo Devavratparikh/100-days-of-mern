@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "100-days-of-mern",
+  "version": "1.0.0",
+  "description": "Learning full-stack development (MERN + TypeScript), backend-focused, job-ready goal.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devavratparikh/100-days-of-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devavratparikh/100-days-of-mern/issues"
+  },
+  "homepage": "https://github.com/Devavratparikh/100-days-of-mern#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.10.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.9.6"
+  }
+}
